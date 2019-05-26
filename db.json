@@ -1,0 +1,17 @@
+[
+    {
+        groupCategoryId: 1,
+        groupCategoryTitle: "3-5 years",
+        groupCategoryImageUrl: "../../assets/images/kid-image1.jpg"
+    },
+    {
+        groupCategoryId: 2,
+        groupCategoryTitle: "6-10 years",
+        groupCategoryImageUrl: "../../assets/images/kid-image2.jpg"
+    },
+    {
+        groupCategoryId: 3,
+        groupCategoryTitle: "11-16 years",
+        groupCategoryImageUrl: "../../assets/images/kid-image3.jpg"
+    }
+]
